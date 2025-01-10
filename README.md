@@ -5,7 +5,7 @@ This project contains experiments and models to explore various configurations a
 ## Project Structure
 
 ```
-CNN_ml4cv/
+CNN-Model-Analysis/
 ├── data/                  # Folder containing dataset
 ├── experiments/           # Contains scripts for experiments
 │   ├── compression_analysis.py
@@ -27,7 +27,7 @@ CNN_ml4cv/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/CNN_ml4cv.git
+   git clone https://github.com/hajizadafarid/CNN-Model-Analysis.git
    cd CNN_ml4cv
    ```
 
@@ -85,5 +85,6 @@ data/
     ├── class_1/
     ├── class_2/
     ├── ...
+    ├── class 10/
 ```
 
