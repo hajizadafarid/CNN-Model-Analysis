@@ -1,4 +1,4 @@
-# CNN Model Analysis
+# Simple CNN Model Analysis
 
 This project contains experiments and models to explore various configurations and techniques for convolutional neural networks (CNNs) in computer vision tasks. The project includes hyperparameter tuning, model compression analysis, and model comparison experiments.
 
@@ -28,7 +28,7 @@ CNN-Model-Analysis/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/hajizadafarid/CNN-Model-Analysis.git
+   git clone https://github.com/hajizadafarid/Simple-CNN-Model-Analysis.git
    cd CNN_ml4cv
    ```
 
