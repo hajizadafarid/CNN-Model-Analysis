@@ -1,4 +1,4 @@
-# CNN_ml4cv
+# CNN Model Analysis
 
 This project contains experiments and models to explore various configurations and techniques for convolutional neural networks (CNNs) in computer vision tasks. The project includes hyperparameter tuning, model compression analysis, and model comparison experiments.
 
