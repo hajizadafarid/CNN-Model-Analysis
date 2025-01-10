@@ -1,0 +1,6 @@
+Accuracy Comparison:
+
+CrossEntropyLoss:
+Train Acc: 100.00%, Val Acc: 68.67%
+SquaredHingeLoss:
+Train Acc: 98.67%, Val Acc: 50.00%

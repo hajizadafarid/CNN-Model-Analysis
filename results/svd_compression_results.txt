@@ -1,0 +1,141 @@
+Baseline Model:
+Parameters: 25,805,258
+Training Accuracy: 100.00%
+Evaluation Accuracy: 69.33%
+--------------------------------------------------
+Baseline Model:
+Parameters: 25,805,258
+Training Accuracy: 100.00%
+Evaluation Accuracy: 69.33%
+--------------------------------------------------
+
+Compression Ratio: 0.1
+Parameters: 2,627,812 (10.18% of baseline)
+Training Accuracy: 20.00%
+Evaluation Accuracy: 12.00%
+Accuracy Change: -57.33%
+--------------------------------------------------
+
+Compression Ratio: 0.2
+Parameters: 5,243,913 (20.32% of baseline)
+Training Accuracy: 42.67%
+Evaluation Accuracy: 29.33%
+Accuracy Change: -40.00%
+--------------------------------------------------
+
+Compression Ratio: 0.3
+Parameters: 7,759,405 (30.07% of baseline)
+Training Accuracy: 59.33%
+Evaluation Accuracy: 40.67%
+Accuracy Change: -28.66%
+--------------------------------------------------
+
+Compression Ratio: 0.4
+Parameters: 10,375,506 (40.21% of baseline)
+Training Accuracy: 70.00%
+Evaluation Accuracy: 42.67%
+Accuracy Change: -26.66%
+--------------------------------------------------
+
+Compression Ratio: 0.5
+Parameters: 12,991,607 (50.34% of baseline)
+Training Accuracy: 80.67%
+Evaluation Accuracy: 46.67%
+Accuracy Change: -22.66%
+--------------------------------------------------
+
+Compression Ratio: 0.6
+Parameters: 15,507,099 (60.09% of baseline)
+Training Accuracy: 92.00%
+Evaluation Accuracy: 52.67%
+Accuracy Change: -16.66%
+--------------------------------------------------
+
+Compression Ratio: 0.7
+Parameters: 18,123,200 (70.23% of baseline)
+Training Accuracy: 98.67%
+Evaluation Accuracy: 58.67%
+Accuracy Change: -10.66%
+--------------------------------------------------
+
+Compression Ratio: 0.8
+Parameters: 20,638,692 (79.98% of baseline)
+Training Accuracy: 100.00%
+Evaluation Accuracy: 60.00%
+Accuracy Change: -9.33%
+--------------------------------------------------
+
+Compression Ratio: 0.9
+Parameters: 23,254,793 (90.12% of baseline)
+Training Accuracy: 100.00%
+Evaluation Accuracy: 63.33%
+Accuracy Change: -6.00%
+--------------------------------------------------
+Baseline Model:
+Parameters: 25,805,258
+Training Accuracy: 100.00%
+Evaluation Accuracy: 68.67%
+--------------------------------------------------
+
+Compression Ratio: 0.1
+Parameters: 2,627,812 (10.18% of baseline)
+Training Accuracy: 20.00%
+Evaluation Accuracy: 12.00%
+Accuracy Change: -56.67%
+--------------------------------------------------
+
+Compression Ratio: 0.2
+Parameters: 5,243,913 (20.32% of baseline)
+Training Accuracy: 42.67%
+Evaluation Accuracy: 29.33%
+Accuracy Change: -39.33%
+--------------------------------------------------
+
+Compression Ratio: 0.3
+Parameters: 7,759,405 (30.07% of baseline)
+Training Accuracy: 59.33%
+Evaluation Accuracy: 40.67%
+Accuracy Change: -28.00%
+--------------------------------------------------
+
+Compression Ratio: 0.4
+Parameters: 10,375,506 (40.21% of baseline)
+Training Accuracy: 70.00%
+Evaluation Accuracy: 42.67%
+Accuracy Change: -26.00%
+--------------------------------------------------
+
+Compression Ratio: 0.5
+Parameters: 12,991,607 (50.34% of baseline)
+Training Accuracy: 80.67%
+Evaluation Accuracy: 46.67%
+Accuracy Change: -22.00%
+--------------------------------------------------
+
+Compression Ratio: 0.6
+Parameters: 15,507,099 (60.09% of baseline)
+Training Accuracy: 92.00%
+Evaluation Accuracy: 52.67%
+Accuracy Change: -16.00%
+--------------------------------------------------
+
+Compression Ratio: 0.7
+Parameters: 18,123,200 (70.23% of baseline)
+Training Accuracy: 98.67%
+Evaluation Accuracy: 58.67%
+Accuracy Change: -10.00%
+--------------------------------------------------
+
+Compression Ratio: 0.8
+Parameters: 20,638,692 (79.98% of baseline)
+Training Accuracy: 100.00%
+Evaluation Accuracy: 60.00%
+Accuracy Change: -8.67%
+--------------------------------------------------
+
+Compression Ratio: 0.9
+Parameters: 23,254,793 (90.12% of baseline)
+Training Accuracy: 100.00%
+Evaluation Accuracy: 63.33%
+Accuracy Change: -5.33%
+--------------------------------------------------

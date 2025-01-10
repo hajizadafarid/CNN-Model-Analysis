@@ -1,0 +1,19 @@
+
+=== Weight Decay Analysis for Base Model ===
+
+Weight Decay: 0.0
+Best Training Accuracy: 100.00%
+Best Evaluation Accuracy: 68.67%
+--------------------------------------------------
+Weight Decay: 0.0001
+Best Training Accuracy: 100.00%
+Best Evaluation Accuracy: 68.67%
+--------------------------------------------------
+Weight Decay: 0.001
+Best Training Accuracy: 100.00%
+Best Evaluation Accuracy: 68.67%
+--------------------------------------------------
+Weight Decay: 0.01
+Best Training Accuracy: 100.00%
+Best Evaluation Accuracy: 68.67%
+--------------------------------------------------

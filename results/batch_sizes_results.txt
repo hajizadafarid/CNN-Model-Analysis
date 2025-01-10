@@ -1,0 +1,19 @@
+
+=== Batch Size Analysis for Base Model ===
+
+Batch Size: 16
+Best Training Accuracy: 100.00%
+Best Evaluation Accuracy: 68.67%
+--------------------------------------------------
+Batch Size: 32
+Best Training Accuracy: 100.00%
+Best Evaluation Accuracy: 68.67%
+--------------------------------------------------
+Batch Size: 64
+Best Training Accuracy: 100.00%
+Best Evaluation Accuracy: 68.67%
+--------------------------------------------------
+Batch Size: 128
+Best Training Accuracy: 100.00%
+Best Evaluation Accuracy: 68.67%
+--------------------------------------------------

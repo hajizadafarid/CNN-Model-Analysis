@@ -1,0 +1,12 @@
+
+Scratch Model:
+Final Training Accuracy: 100.00%
+Final Evaluation Accuracy: 68.67%
+Best Evaluation Accuracy: 70.67%
+Total Training Time: 23.05s
+
+Pretrained Model:
+Final Training Accuracy: 100.00%
+Final Evaluation Accuracy: 98.67%
+Best Evaluation Accuracy: 98.67%
+Total Training Time: 23.90s

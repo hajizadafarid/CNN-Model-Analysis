@@ -1,0 +1,89 @@
+Combined Analysis of Dropout and L2 Regularization
+==================================================
+
+Dropout: 0.1, Weight Decay: 1e-05
+Training Accuracy: 100.00
+Evaluation Accuracy: 68.67
+------------------------------
+Dropout: 0.1, Weight Decay: 1e-04
+Training Accuracy: 100.00
+Evaluation Accuracy: 62.67
+------------------------------
+Dropout: 0.1, Weight Decay: 1e-03
+Training Accuracy: 100.00
+Evaluation Accuracy: 66.00
+------------------------------
+Dropout: 0.1, Weight Decay: 1e-02
+Training Accuracy: 100.00
+Evaluation Accuracy: 69.33
+------------------------------
+Dropout: 0.2, Weight Decay: 1e-05
+Training Accuracy: 100.00
+Evaluation Accuracy: 63.33
+------------------------------
+Dropout: 0.2, Weight Decay: 1e-04
+Training Accuracy: 100.00
+Evaluation Accuracy: 63.33
+------------------------------
+Dropout: 0.2, Weight Decay: 1e-03
+Training Accuracy: 100.00
+Evaluation Accuracy: 67.33
+------------------------------
+Dropout: 0.2, Weight Decay: 1e-02
+Training Accuracy: 100.00
+Evaluation Accuracy: 67.33
+------------------------------
+Dropout: 0.3, Weight Decay: 1e-05
+Training Accuracy: 100.00
+Evaluation Accuracy: 62.00
+------------------------------
+Dropout: 0.3, Weight Decay: 1e-04
+Training Accuracy: 100.00
+Evaluation Accuracy: 63.33
+------------------------------
+Dropout: 0.3, Weight Decay: 1e-03
+Training Accuracy: 100.00
+Evaluation Accuracy: 64.00
+------------------------------
+Dropout: 0.3, Weight Decay: 1e-02
+Training Accuracy: 100.00
+Evaluation Accuracy: 66.00
+------------------------------
+Dropout: 0.4, Weight Decay: 1e-05
+Training Accuracy: 100.00
+Evaluation Accuracy: 67.33
+------------------------------
+Dropout: 0.4, Weight Decay: 1e-04
+Training Accuracy: 100.00
+Evaluation Accuracy: 66.67
+------------------------------
+Dropout: 0.4, Weight Decay: 1e-03
+Training Accuracy: 100.00
+Evaluation Accuracy: 66.67
+------------------------------
+Dropout: 0.4, Weight Decay: 1e-02
+Training Accuracy: 100.00
+Evaluation Accuracy: 64.67
+------------------------------
+Dropout: 0.5, Weight Decay: 1e-05
+Training Accuracy: 100.00
+Evaluation Accuracy: 69.33
+------------------------------
+Dropout: 0.5, Weight Decay: 1e-04
+Training Accuracy: 100.00
+Evaluation Accuracy: 66.00
+------------------------------
+Dropout: 0.5, Weight Decay: 1e-03
+Training Accuracy: 100.00
+Evaluation Accuracy: 65.33
+------------------------------
+Dropout: 0.5, Weight Decay: 1e-02
+Training Accuracy: 100.00
+Evaluation Accuracy: 62.67
+------------------------------
+
+Best Configuration:
+Dropout: 0.1
+Weight Decay: 1e-02
+Training Accuracy: 100.00
+Evaluation Accuracy: 69.33

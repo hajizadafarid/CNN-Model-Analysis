@@ -1,0 +1,4 @@
+Best Training accuracy with skipping: 100.00%
+Best Evaluation accuracy with skipping: 66.67%
+Training Time with skipping: 22.29s
+

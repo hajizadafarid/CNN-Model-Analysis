@@ -1,0 +1,12 @@
+Best Training accuracy with kernel size 3: 100.00%
+Best Evaluation accuracy with kernel size 3: 68.67%
+Training Time with kernel size 3: 22.85s
+
+Best Training accuracy with kernel size 5: 100.00%
+Best Evaluation accuracy with kernel size 5: 62.67%
+Training Time with kernel size 5: 23.10s
+
+Best Training accuracy with kernel size 7: 100.00%
+Best Evaluation accuracy with kernel size 7: 62.00%
+Training Time with kernel size 7: 24.36s
+

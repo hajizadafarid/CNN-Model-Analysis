@@ -1,0 +1,22 @@
+
+=== Learning Rate Analysis ===
+Learning Rate: 0.1
+Best Training Accuracy: 100.00%
+Best Evaluation Accuracy: 50.00%
+Training Time: 22.46s
+------------------------------
+Learning Rate: 0.01
+Best Training Accuracy: 100.00%
+Best Evaluation Accuracy: 67.33%
+Training Time: 22.28s
+------------------------------
+Learning Rate: 0.001
+Best Training Accuracy: 100.00%
+Best Evaluation Accuracy: 68.67%
+Training Time: 21.42s
+------------------------------
+Learning Rate: 0.0001
+Best Training Accuracy: 98.00%
+Best Evaluation Accuracy: 58.00%
+Training Time: 22.60s
+------------------------------

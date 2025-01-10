@@ -1,0 +1,16 @@
+Best Training accuracy with batch norm: 100.00%
+Best Evaluation accuracy with batch norm: 68.67%
+Training Time with batch norm: 23.62s
+
+Best Training accuracy with group norm: 100.00%
+Best Evaluation accuracy with group norm: 63.33%
+Training Time with group norm: 20.78s
+
+Best Training accuracy with layer norm: 100.00%
+Best Evaluation accuracy with layer norm: 57.33%
+Training Time with layer norm: 24.94s
+
+Best Training accuracy with instance norm: 100.00%
+Best Evaluation accuracy with instance norm: 69.33%
+Training Time with instance norm: 20.22s
+

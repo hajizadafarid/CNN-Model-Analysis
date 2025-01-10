@@ -1,0 +1,40 @@
+Best Training accuracy with dropout 0.1: 100.00%
+Best Evaluation accuracy with dropout 0.1: 68.67%
+Training Time with dropout 0.1: 22.16s
+
+Best Training accuracy with dropout 0.2: 100.00%
+Best Evaluation accuracy with dropout 0.2: 68.67%
+Training Time with dropout 0.2: 21.56s
+
+Best Training accuracy with dropout 0.3: 100.00%
+Best Evaluation accuracy with dropout 0.3: 70.00%
+Training Time with dropout 0.3: 22.63s
+
+Best Training accuracy with dropout 0.4: 100.00%
+Best Evaluation accuracy with dropout 0.4: 68.67%
+Training Time with dropout 0.4: 22.93s
+
+Best Training accuracy with dropout 0.5: 100.00%
+Best Evaluation accuracy with dropout 0.5: 69.33%
+Training Time with dropout 0.5: 22.97s
+
+Best Training accuracy with dropout 0.6: 100.00%
+Best Evaluation accuracy with dropout 0.6: 69.33%
+Training Time with dropout 0.6: 21.93s
+
+Best Training accuracy with dropout 0.7: 100.00%
+Best Evaluation accuracy with dropout 0.7: 68.67%
+Training Time with dropout 0.7: 22.69s
+
+Best Training accuracy with dropout 0.8: 98.00%
+Best Evaluation accuracy with dropout 0.8: 68.67%
+Training Time with dropout 0.8: 23.09s
+
+Best Training accuracy with dropout 0.9: 60.00%
+Best Evaluation accuracy with dropout 0.9: 64.67%
+Training Time with dropout 0.9: 24.01s
+
+Best Training accuracy with dropout 1.0: 10.00%
+Best Evaluation accuracy with dropout 1.0: 11.33%
+Training Time with dropout 1.0: 22.82s
+

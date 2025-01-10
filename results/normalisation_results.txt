@@ -1,0 +1,4 @@
+Best Training accuracy with batch norm: 100.00
+Best Evaluation accuracy with batch norm: 68.67
+Best Training accuracy with group norm: 100.00
+Best Evaluation accuracy with group norm: 65.33

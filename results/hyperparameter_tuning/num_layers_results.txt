@@ -1,0 +1,28 @@
+Best Training accuracy when num_conv_layers 3: 100.00%
+Best Evaluation accuracy when num_conv_layers 3: 66.00%
+Training Time when num_conv_layers 3: 21.52s
+
+Best Training accuracy when num_conv_layers 4: 100.00%
+Best Evaluation accuracy when num_conv_layers 4: 66.00%
+Training Time when num_conv_layers 4: 21.88s
+
+Best Training accuracy when num_conv_layers 5: 100.00%
+Best Evaluation accuracy when num_conv_layers 5: 68.67%
+Training Time when num_conv_layers 5: 21.99s
+
+Best Training accuracy when num_conv_layers 6: 100.00%
+Best Evaluation accuracy when num_conv_layers 6: 64.00%
+Training Time when num_conv_layers 6: 22.84s
+
+Best Training accuracy when num_conv_layers 7: 100.00%
+Best Evaluation accuracy when num_conv_layers 7: 66.67%
+Training Time when num_conv_layers 7: 22.82s
+
+Best Training accuracy when num_conv_layers 8: 100.00%
+Best Evaluation accuracy when num_conv_layers 8: 65.33%
+Training Time when num_conv_layers 8: 22.83s
+
+Best Training accuracy when num_conv_layers 9: 100.00%
+Best Evaluation accuracy when num_conv_layers 9: 65.33%
+Training Time when num_conv_layers 9: 25.04s
+

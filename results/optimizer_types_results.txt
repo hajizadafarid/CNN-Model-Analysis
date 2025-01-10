@@ -1,0 +1,17 @@
+
+Optimizer: SGD
+Best Training Accuracy: 100.00%
+Best Evaluation Accuracy: 68.67%
+--------------------------------------------------
+Optimizer: SGD_momentum
+Best Training Accuracy: 100.00%
+Best Evaluation Accuracy: 72.00%
+--------------------------------------------------
+Optimizer: Adam
+Best Training Accuracy: 100.00%
+Best Evaluation Accuracy: 58.67%
+--------------------------------------------------
+Optimizer: RMSprop
+Best Training Accuracy: 100.00%
+Best Evaluation Accuracy: 56.00%
+--------------------------------------------------

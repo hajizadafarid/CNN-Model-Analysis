@@ -1,0 +1,19 @@
+
+=== Learning Rate Analysis for Base Model ===
+
+Learning Rate: 0.1
+Best Training Accuracy: 100.00%
+Best Evaluation Accuracy: 50.00%
+--------------------------------------------------
+Learning Rate: 0.01
+Best Training Accuracy: 100.00%
+Best Evaluation Accuracy: 67.33%
+--------------------------------------------------
+Learning Rate: 0.001
+Best Training Accuracy: 100.00%
+Best Evaluation Accuracy: 68.67%
+--------------------------------------------------
+Learning Rate: 0.0001
+Best Training Accuracy: 98.00%
+Best Evaluation Accuracy: 58.00%
+--------------------------------------------------
